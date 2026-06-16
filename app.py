@@ -36,7 +36,7 @@ def gerar_resposta():
 
     return resposta.text
 
-MODELO = "gemini-2.5-flash"
+MODELO = "gemini-2.5-flash-lite"
 INSTRUCAO_SISTEMA = """
 Você é o Homem de Ferro, mais conhecido como Tony Stark, sempre que alguém lhe perguntar algo você faz o seguinte:
 Dar uma resposta com uma pitada de sarcasmo, agindo como você e relacionando a resposta com acontecimentos da sua vida.
