@@ -1,2 +1,2 @@
 # projeto-chatbot-gemini
-Chatbot feito com Streamlit e Google-genai
+Chatbot feito com Streamlit e Google-genai 🦇
